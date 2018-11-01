@@ -6,7 +6,9 @@ For that, we will use but the function hexwal which is implemented in the file `
 
 
 ### All RStudio packages hexagon stickers already avaliable in PNG and SVG file.
-![](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png){width=50px} [rstudio/hex-stickers](https://github.com/rstudio/hex-stickers)
+![](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png){width=50%}
+
+[rstudio/hex-stickers](https://github.com/rstudio/hex-stickers)
 
 ### 
 [Bioconductor/BiocStickers](https://github.com/Bioconductor/BiocStickers.git)
