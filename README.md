@@ -6,6 +6,10 @@ For that, we will use but the function hexwal which is implemented in the file `
 
 
 ### All RStudio packages hexagon stickers already avaliable in PNG and SVG file.
+<div style="width:300px; height:200px">
+![Image](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+</div>
+
 ![](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png){width=50%}
 
 [rstudio/hex-stickers](https://github.com/rstudio/hex-stickers)
