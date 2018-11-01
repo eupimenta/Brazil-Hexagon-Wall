@@ -19,3 +19,4 @@ We divide this routine in 3 steps:
 ### Allouds you to create a brand new hexagon sticker 
 [Bioconductor/BiocStickers](https://github.com/Bioconductor/BiocStickers.git)
 
+![](http://100honey.ir/wp-content/uploads/2018/09/HoneyHeader1.jpg)
